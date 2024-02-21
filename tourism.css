@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/platform-light-wooden-wood-day-plank_1417-1368.jpg?t=st=1708527700~exp=1708531300~hmac=442e371bdd231b07d1d37a3e822faa4aba126d323e41686e3a1bdb4f7fdf7ff0&w=996");
+     background-size:cover;
+     height:100vh
+}
